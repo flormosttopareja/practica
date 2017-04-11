@@ -1,0 +1,2 @@
+# practica
+uso del github
